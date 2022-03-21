@@ -1,4 +1,4 @@
-### <div align="center">I'm Rishav, a full-time automation engineer and web developer 👨‍💻</div>  
+### <div align="center">I'm uts58, a full-time automation engineer and web developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Binance-RSI-Trading-Bot](https://github.com/uts58/Binance-RSI-Trading-Bot)  
@@ -106,6 +106,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
