@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Binance-Trading-Bot](https://github.com/uts58/Binance-Trading-Bot)  
   
 
-- 🌱 I’m currently learning GoLang  
+- 🌱 I’m currently learning Dart and Flutter  
   
 
 - ❓ Ask me about anything related to python and related technologies  
