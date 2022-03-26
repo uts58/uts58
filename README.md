@@ -1,7 +1,7 @@
 ### <div align="center">I'm uts58, a full-time automation engineer and web developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Binance-RSI-Trading-Bot](https://github.com/uts58/Binance-RSI-Trading-Bot)  
+- 🔭 I’m currently working on [Binance-Trading-Bot](https://github.com/uts58/Binance-Trading-Bot)  
   
 
 - 🌱 I’m currently learning GoLang  
