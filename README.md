@@ -1,7 +1,7 @@
 ### <div align="center">I'm uts58, a full-time python developer and your go to data guy! 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Binance-Trading-Bot](https://github.com/uts58/Binance-Trading-Bot)  
+- 🔭 I’m currently working on [2D-space-shooter-openGL](https://github.com/uts58/2D-space-shooter-openGL)  
   
 
 - 🌱 I’m currently pursuing MSc. at North Dakota State University
