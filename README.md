@@ -1,7 +1,7 @@
 ### <div align="center">I'm uts58, a full-time python developer and your go to data guy! 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [International-Student-Job-Insights-USA](https://github.com/uts58/International-Student-Job-Insights-USA)  
+- 🔭 I’m currently working on some Bio-informatics, some LLM tuning using RAG, and some blockchain!  
   
 
 - 🌱 I’m currently pursuing MSc. at North Dakota State University
