@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on some Bio-informatics, some LLM tuning using RAG, and some blockchain!  
   
 
-- 🌱 I’m currently pursuing MSc. at North Dakota State University
+- 🌱 I’m done pursuing MSc. at North Dakota State University
   
 
 - ❓ Ask me about anything related to python and related technologies  
