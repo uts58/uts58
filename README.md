@@ -1,10 +1,10 @@
 ### <div align="center">I'm uts58, a full-time python developer and your go to data guy! 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on some Bio-informatics, some LLM tuning using RAG, and some blockchain!  
+- 🔭 I’m currently working on some Bio-informatics, some LLM tuning using RAG, and some Data Engineering!  
   
 
-- 🌱 I’m done pursuing MSc. at North Dakota State University
+- 🌱 I’ve graduated with a MSc. in Computer Science at North Dakota State University.
   
 
 - ❓ Ask me about anything related to python and related technologies  
