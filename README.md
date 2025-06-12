@@ -1,6 +1,6 @@
 ## Hello! I'm Utsha, I like Java, Python and Data.
 -  I’m currently working at NDSU Agricultural Data Analytics Unit as a plumber.
--  Other than plumbing, I'm working on some Bio-informatics, some LLM-RAG stuff.   
+-  Other than plumbing, I'm working on some Bio-informatics, some LLM stuff.   
 -  I’ve graduated with a MSc. in Computer Science at North Dakota State University.
   
 
