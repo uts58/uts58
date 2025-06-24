@@ -6,7 +6,7 @@
 
 
 ## My Skill Set  
-IDK whatever is needed to get the job done.
+Whatever is needed to get the job done.
 
 
 ## Leave me a message  
