@@ -1,7 +1,7 @@
-## Hello! I'm Utsha, I like Java, Python and Data.
--  I’m currently working at NDSU Agricultural Data Analytics Unit as a plumber.
--  Other than plumbing, I'm working on some Bio-informatics, some LLM stuff.   
--  I’ve graduated with a MSc. in Computer Science at North Dakota State University.
+## Hello! I'm Utsha, I like Python, Java and AI/ML.
+-  I’m currently working at FBS as a plumber.
+-  Other than plumbing, I'm working on some LLM stuff.   
+-  I’ve graduated with a MSc. in CS at North Dakota State University and BSc. in CS at AIUB.
   
 
 
