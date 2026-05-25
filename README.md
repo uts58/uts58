@@ -1,13 +1,15 @@
-## Hello! I'm Utsha, I like Python, Java and AI/ML.
--  I’m currently working at FBS as a plumber.
--  Other than plumbing, I'm working on some LLM stuff.   
--  I’ve graduated with a MSc. in CS at North Dakota State University and BSc. in CS at AIUB.
-  
-
+## Hello! I'm Utsha, I work with Python, Java, and AI/ML.
+-  Currently at FBS, plumbing data pipelines and shipping LLM systems on the side.
+-  MSc in CS, North Dakota State University · BSc in CS, AIUB.
 
 ## My Skill Set  
 Whatever is needed to get the job done.
 
+## Selected Projects
+### [Resilio](https://github.com/uts58/resilio)
+LangGraph ReAct agent with RAG over NIST CSF 2.0, NIST SP 800-53, and CIS Controls v8. Tools exposed via a standalone MCP HTTP server (Claude Desktoangfuse tracing, RAGAS-scored evalpipeline (faithfulness 0.97, context_recall 0.78), versioned prompts, GitHub Actions CI.
+
+**Stack:** Python · LangChain · LangGraph · Groq · ChromaDB · HuggingFace TEI · MCP · Langfuse · RAGAS · Docker · uv
 
 ## Leave me a message  
 <div>
