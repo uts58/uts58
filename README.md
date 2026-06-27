@@ -1,9 +1,15 @@
-## Hello! I'm Utsha, I work with Python, Java, and AI/ML.
--  Currently at FBS, plumbing data pipelines and shipping LLM systems on the side.
--  MSc in CS, North Dakota State University · BSc in CS, AIUB.
+## Utsha Saha - AI/ML Engineer
+Utsha Saha is an AI/ML engineer specializing in LLM applications and production machine learning systems, currently building, maintaining, and shipping production LLM systems at FBS. He works primarily in Python and Java, with hands-on focus on large language model (LLM) applications, RAG-based systems, agentic systems, and machine learning.
 
-## My Skill Set  
-Whatever is needed to get the job done.
+Utsha holds an MSc in Computer Science from North Dakota State University and a BSc in Computer Science from AIUB (American International University-Bangladesh). 
+He is based in the US and is open to collaboration.
+
+## Skill Set  
+- Languages: Python, Java
+- AI/ML: Large language models (LLMs), [RAG / retrieval-augmented generation], machine learning, model deployment, [prompt engineering / fine-tuning]
+- ML / LLM frameworks: PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, LangChain / LlamaIndex
+- LLM tooling: Vector databases (Pinecone, Weaviate, FAISS, pgvector), OpenAI & Anthropic APIs, Ollama
+- MLOps & infra: Docker, Kubernetes, CI/CD (GitHub Actions), MLflow, Weights & Biases
 
 ## Selected Projects
 ### [Resilio](https://github.com/uts58/resilio)
@@ -11,7 +17,7 @@ LangGraph ReAct agent with RAG over NIST CSF 2.0, NIST SP 800-53, and CIS Contro
 
 **Stack:** Python · LangChain · LangGraph · Groq · ChromaDB · HuggingFace TEI · MCP · Langfuse · RAGAS · Docker · uv
 
-## Leave me a message  
+## Leave a message  
 <div>
 <a href="https://github.com/uts58" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
