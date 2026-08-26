@@ -1,8 +1,7 @@
 ## Utsha Saha - AI/ML Engineer
-Utsha Saha is an AI/ML engineer specializing in LLM applications and production machine learning systems, currently building, maintaining, and shipping production LLM systems at FBS. He works primarily in Python and Java, with hands-on focus on large language model (LLM) applications, RAG-based systems, agentic systems, and machine learning.
+I am an AI/ML engineer specializing in LLM applications and production machine learning systems, currently building, maintaining, and shipping production LLM systems at FBS. I work primarily in Python and Java, with hands-on focus on large language model (LLM) applications, RAG-based systems, agentic systems, and machine learning.
 
-Utsha holds an MSc in Computer Science from North Dakota State University and a BSc in Computer Science from AIUB (American International University-Bangladesh). 
-He is based in the US and is open to collaboration.
+I hold a MSc in Computer Science from NDSU (US) with focus on Machine Learning and a BSc in Computer Science from AIUB (BD).
 
 ## Skill Set  
 - Languages: Python, Java
