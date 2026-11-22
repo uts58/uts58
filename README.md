@@ -11,7 +11,7 @@ I hold a MSc in Computer Science from NDSU (US) with focus on Machine Learning a
 - MLOps & infra: Docker, Kubernetes, CI/CD (GitHub Actions), MLflow, Weights & Biases
 
 ## Selected Projects
-### [Pagemark](https://github.com/uts58/pagemark)
+### [Pagemark](https://github.com/glichin/pagemark)
 
 An open-source harness for converting PDFs to Markdown with any OpenAI-compatible vision model. Bring your own `base_url`, model, and key.
 
